@@ -16,7 +16,7 @@ import urllib.request
 import json
 from datetime import datetime
 
-DISCORD_WEBHOOK = "<YOUR_DISCORD_WEBHOOK_URL>"
+DISCORD_WEBHOOK = "<DISCORD_WEBHOOK_URL>"
 PORT = 30161
 
 class HoneypotHandler(http.server.SimpleHTTPRequestHandler):
