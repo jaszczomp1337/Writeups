@@ -82,3 +82,5 @@ While bots like **ClaudeBot** and **GPTBot** routinely scanned `/robots.txt` and
 
 ### Conclusion
 The deployment of a simple, isolated web honeypot demonstrated that automated traffic is heavily dominated by corporate AI crawlers and global botnets targeting mobile endpoints. Data-scraping scripts for LLM models exhibit zero contextual awareness of visual traps. This serves as a practical behavioral study for Blue Team engineers, emphasizing the critical importance of rigorous `robots.txt` configurations and the monitoring of non-standard ports in production environments.
+
+![Global Attack Map](Pictures/attack-map.png)
